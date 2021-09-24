@@ -1,0 +1,11 @@
+keyc = cachorro
+keye = elefante
+keyg = gato
+
+keyl = leao
+keym = macaco
+keyp = passaro
+
+keys = sapo
+keyu = urso
+keyv = vaca
