@@ -1,4 +1,4 @@
-<img src="https://duckduckgo.com/i/0330f6cf.png" href="http://www.golangbr.org/" alt="Logo Go" height="80"></img>
+<img src="https://duckduckgo.com/i/0330f6cf.png" alt="Logo Go" height="80"></img>
 
 
 Run: go run main.go
