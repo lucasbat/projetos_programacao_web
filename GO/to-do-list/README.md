@@ -3,7 +3,7 @@
 
 Run: go run main.go
 
-Test (Terminal): curl http://localhost:9091/todo
+Test: http://localhost:9091/todo
 
 
 
@@ -11,12 +11,12 @@ Test (Terminal): curl http://localhost:9091/todo
 
 
 
-ServeMux
+ServeMux: <br>
 HTTP request multiplexer: Matches the URL of each incoming request against a list of registered patterns and calls the handler.
 
 
 
-Basic Sintaxe:
-    {{ .Title }}
-    {{ if .Done }}  .. {{ end }}
-    {{ range .Items }}  {{.item}} .. {{ end }}
+Basic Sintaxe: <br>
+    {{ .Title }} <br>
+    {{ if .Done }}  .. {{ end }} <br>
+    {{ range .Items }}  {{.item}} .. {{ end }} <br>
