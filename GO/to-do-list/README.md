@@ -6,7 +6,6 @@ Run: go run main.go
 Test: http://localhost:9091/todo
 
 
-
 <img src="gif.gif" alt="Gif funcionamento" height="500"></img>
 
 
