@@ -11,27 +11,33 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <style type="text/css">
+      body{
+        background-color: #222022;
+      }
       .del {
           text-decoration: line-through;
       }
       .card{
         border-radius: 0 !important;
         border: none;
+        color: white;
+        box-shadow: 2px 2px 5px #000000;
       }
       .card-body{
         padding: 0 !important;
+
       }
       .todo-title{
         width: 100%;
-        background: #b88f92;
+        background: #9147FF;
         color: #FFF
         ;
         font-size: 30px;
         font-weight: bold;
         padding: 20px 10px;
         text-align: center;
-        border-top-left-radius: 5px;
-        border-top-right-radius: 5px;
+        //border-top-left-radius: 5px;
+        //border-top-right-radius: 5px;
       }
       .custom-input{
         border-radius: 0 !important;
@@ -60,7 +66,7 @@
         border: 2px solid #e74c3c !important;
       }
       .not-checked{
-        background: #2227c7;
+        background: #9147FF;
         color: #FFF;
         font-weight: bold;
       }
