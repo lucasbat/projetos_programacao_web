@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <style type="text/css">
       body{
-        background-color: #222022;
+        background-color: #222021;
       }
       .del {
           text-decoration: line-through;
