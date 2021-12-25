@@ -21,7 +21,7 @@
         border-radius: 0 !important;
         border: none;
         color: white;
-        box-shadow: 2px 2px 5px #000000;
+        box-shadow: 2px 2px 4px #000000;
       }
       .card-body{
         padding: 0 !important;
