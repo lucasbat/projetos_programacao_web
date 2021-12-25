@@ -79,7 +79,7 @@
                 <br><br>
                 <div class="card">
                   <div class="todo-title">
-                    Daily Todo Lists
+                    Todo Lists
                   </div>
                   <div class="card-body">
                       <form v-on:submit.prevent>
