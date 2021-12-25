@@ -84,7 +84,7 @@
                   <div class="card-body">
                       <form v-on:submit.prevent>
                         <div class="input-group">
-                          <input type="text" v-model="todo.title" v-on:keyup="checkForEnter($event)" class="form-control custom-input" :class="{ 'error': showError }" placeholder="Add your todo here">
+                          <input type="text" v-model="todo.title" v-on:keyup="checkForEnter($event)" class="form-control custom-input" :class="{ 'error': showError }" placeholder="Add your todo here" required>
                           <span class="input-group-btn">
                             <button class="btn custom-button" :class="{'btn-success' : !enableEdit, 'btn-warning' : enableEdit}" type="button"  v-on:click="addTodo"><span :class="{'fa fa-plus' : !enableEdit, 'fa fa-edit' : enableEdit}"></span></button>
                           </span>
